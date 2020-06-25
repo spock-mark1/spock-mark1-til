@@ -6,5 +6,5 @@
 
 - [네이버 오픈소스](https://naver.github.io/OpenSourceGuide/book/)
 - [오픈소스 라이센스 검색](https://choosealicense.com/)
-
 - [오픈소스를 사용하고, 준비하는 개발자를 위한 가이드](https://www.slideshare.net/ifkakao/ss-113145564)
+- [GPL·AGPL·MPL…한눈에 보는 오픈소스SW 라이선스](http://www.bloter.net/archives/209318)
