@@ -1,0 +1,3 @@
+- [Google TypeScript Style](https://github.com/google/gts)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+- [Enforcing Git Commit Message Style](https://medium.com/@auscunningham/enforcing-git-commit-message-style-b86a45380b0f)
